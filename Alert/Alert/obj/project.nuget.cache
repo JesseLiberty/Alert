@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cf3XkK+kSsnEbatzGgkFAZ18NNB3kkcvgofD8Sr2xxW/1Q81/fhn9FJbbRUxAd4VRTLaTRgBTw2/1f16pZeYVA==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\Alert\\Alert\\Alert\\Alert\\Alert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SESA560987\\.nuget\\packages\\acr.userdialogs\\7.1.0.442\\acr.userdialogs.7.1.0.442.nupkg.sha512",
+    "C:\\Users\\SESA560987\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SESA560987\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\SESA560987\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\SESA560987\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\SESA560987\\.nuget\\packages\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

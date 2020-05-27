@@ -1,0 +1,8 @@
+C:\GitHub\Alert\Alert\Alert\Alert.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\GitHub\Alert\Alert\Alert\Alert.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\GitHub\Alert\Alert\Alert\Alert.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\GitHub\Alert\Alert\Alert\Alert.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\GitHub\Alert\Alert\Alert\Alert.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\GitHub\Alert\Alert\Alert\Alert.iOS\obj\iPhone\Debug\optimized\
+C:\GitHub\Alert\Alert\Alert\Alert.iOS\obj\iPhone\Debug\Alert.iOS.csprojAssemblyReference.cache
+C:\GitHub\Alert\Alert\Alert\Alert.iOS\obj\iPhone\Debug\Alert.iOS.csproj.CoreCompileInputs.cache

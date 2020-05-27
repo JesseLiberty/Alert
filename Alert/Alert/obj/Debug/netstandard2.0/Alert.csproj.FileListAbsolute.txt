@@ -1,0 +1,13 @@
+C:\GitHub\Alert\Alert\Alert\Alert\bin\Debug\netstandard2.0\Alert.deps.json
+C:\GitHub\Alert\Alert\Alert\Alert\bin\Debug\netstandard2.0\Alert.dll
+C:\GitHub\Alert\Alert\Alert\Alert\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\Alert\Alert\Alert\Alert\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\Alert\Alert\Alert\Alert\obj\Debug\netstandard2.0\Alert.AssemblyInfoInputs.cache
+C:\GitHub\Alert\Alert\Alert\Alert\obj\Debug\netstandard2.0\Alert.AssemblyInfo.cs
+C:\GitHub\Alert\Alert\Alert\Alert\obj\Debug\netstandard2.0\Alert.csproj.CoreCompileInputs.cache
+C:\GitHub\Alert\Alert\Alert\Alert\obj\Debug\netstandard2.0\Alert.dll
+C:\GitHub\Alert\Alert\Alert\Alert\obj\Debug\netstandard2.0\ref\Alert.dll
+C:\GitHub\Alert\Alert\Alert\Alert\obj\Debug\netstandard2.0\Alert.pdb
+C:\GitHub\Alert\Alert\Alert\Alert\bin\Debug\netstandard2.0\ref\Alert.dll
+C:\GitHub\Alert\Alert\Alert\Alert\bin\Debug\netstandard2.0\Alert.pdb
+C:\GitHub\Alert\Alert\Alert\Alert\obj\Debug\netstandard2.0\XamlC.stamp

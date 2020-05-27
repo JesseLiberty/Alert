@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "RfrQRZ6nm+bmoPfE5yxHD3P3KhPKpOcvwxjXrTmMAX381SPNSvEydzZvz9zIyEk3D83TjEr6M/17+nzRVja4Ng==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\Alert\\Alert\\Alert\\Alert.iOS\\Alert.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SESA560987\\.nuget\\packages\\acr.userdialogs\\7.1.0.442\\acr.userdialogs.7.1.0.442.nupkg.sha512",
+    "C:\\Users\\SESA560987\\.nuget\\packages\\btprogresshud\\1.3.1\\btprogresshud.1.3.1.nupkg.sha512",
+    "C:\\Users\\SESA560987\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\SESA560987\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\SESA560987\\.nuget\\packages\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
